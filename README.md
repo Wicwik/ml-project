@@ -1,6 +1,6 @@
 # Machine learning project - Correctly masked face images classification
 
-This is a repository for that is included in our [paper](https://data.belanec.eu/maskedface/project_summary.pdf).
+This is a repository that is included in our [paper/summary](https://data.belanec.eu/maskedface/project_summary.pdf).
 
 ## Requierements
 - Python >= 3.8
